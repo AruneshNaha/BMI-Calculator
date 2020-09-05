@@ -125,6 +125,7 @@ class _InputPageState extends State<InputPage> {
                       )
                     ],
                   ),
+                  //A slider to record height
                   SliderTheme(
                     data: SliderTheme.of(context).copyWith(
                         activeTrackColor: Colors.white,
